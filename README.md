@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhea Ramdani</h1>
 <img align="center" alt="web-developer" width="100%" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
-<h3 align="center">I am a junior frontend developer, I have mastered front-end technologies such as HTML, CSS, and JavaScript, ReactJs. I am experienced in developing responsive web interfaces. I am a programmer who comes from Indonesia, specifically in Ciamis, West Java, my dream is to become a fort end developer. Thank You.</h3>
+<h3 align="justify">I am a junior frontend developer, I have mastered front-end technologies such as HTML, CSS, and JavaScript, ReactJs. I am experienced in developing responsive web interfaces. I am a programmer who comes from Indonesia, specifically in Ciamis, West Java, my dream is to become a fort end developer. Thank You.</h3>
 
 <p align="left"> <a href="https://twitter.com/dhearamdani13" target="blank"><img src="https://img.shields.io/twitter/follow/dhearamdani13?logo=twitter&style=for-the-badge" alt="dhearamdani13" /></a> </p>
 
