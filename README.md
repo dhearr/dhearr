@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhea Ramdani</h1>
-<img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yw0TnheAGN-LPneDaTlaxwHaD8%26pid%3DApi&f=1&ipt=b3ce462692853997863430590f5604395e67769880ff52b8f7a50b13dd535ed2&ipo=images" />
-<h3 align="justify">A passionate frontend developer from Indonesia</h3>
+<img align="center" alt="web-developer" width="100%" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+<h3 align="justify">I am a junior frontend developer, I have mastered front-end technologies such as HTML, CSS, and JavaScript, ReactJs. I am experienced in developing responsive web interfaces. I am a programmer who comes from Indonesia, specifically in Ciamis, West Java, my dream is to become a fort end developer. Thank You.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhearr&label=Profile%20views&color=0e75b6&style=flat" alt="dhearr" /> </p>
 
