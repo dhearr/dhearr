@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhearr](https://github.com/dhearr)
 
-- 📝 this is my portfolio link [https://dhearr.github.io/](https://dhearr-site.vercel.app/)
+- 📝 this is my portfolio link [https://dhearr-site.vercel.app/](https://dhearr-site.vercel.app/)
 
 - 💬 Ask me about **web development, javascript, react or laravel**
 
