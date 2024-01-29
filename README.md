@@ -16,14 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhea ramdani" height="30" width="40" /></a>
 <a href="https://twitter.com/dhearamdani13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhearamdani13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhea ramdani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhea ramdani" height="30" width="40" /></a>
 <a href="https://fb.com/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhea ramdani" height="30" width="40" /></a>
 <a href="https://instagram.com/dherrrrrrrrrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dherrrrrrrrrrrr" height="30" width="40" /></a>
-<a href="https://dribbble.com/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dhea ramdani" height="30" width="40" /></a>
-<a href="https://www.behance.net/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dhea ramdani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dhea ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhea ramdani" height="30" width="40" /></a>
 </p>
 
