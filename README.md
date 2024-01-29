@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/dhearamdani13" target="blank"><img src="https://img.shields.io/twitter/follow/dhearamdani13?logo=twitter&style=for-the-badge" alt="dhearamdani13" /></a> </p>
 
-- 🔭 I’m currently working on [App - Catatan](https://dhearr.github.io/catatan/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/dhearr](https://github.com/dhearr)
 
 - 📝 this is my portfolio link [https://dhearr-site.vercel.app/](https://dhearr-site.vercel.app/)
