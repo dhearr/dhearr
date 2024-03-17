@@ -2,7 +2,8 @@
 <img align="center" alt="web-developer" width="100%" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 <h4 align="justify">I am a junior frontend developer, I have mastered front-end technologies such as HTML, CSS, and JavaScript, ReactJs. I am experienced in developing responsive web interfaces. I am a programmer who comes from Indonesia, specifically in Ciamis, West Java, my dream is to become a fort end developer. Thank You.</h4>
 
-<p align="left"> <a href="https://twitter.com/dhearamdani13" target="blank"><img src="https://img.shields.io/twitter/follow/dhearamdani13?logo=twitter&style=for-the-badge" alt="dhearamdani13" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhearr&label=Profile%20views&color=blueviolet&style=flat" alt="dhearr" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhearr](https://github.com/dhearr)
 
