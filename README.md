@@ -2,7 +2,7 @@
 Hi, I'm Dhea Ramdani!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<img src="https://visitcount.itsvg.in/api?id=dhearr&icon=0&color=9" align='right' alt="dhearr" />
+<img src="https://visitcount.itsvg.in/api?id=dhearr&icon=0&color=0" align='right' alt="dhearr" />
 
 <br/>
 <p align="center">
