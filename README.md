@@ -6,7 +6,7 @@ Hi, I'm Dhea Ramdani!
 
 <br/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Frontend+Developer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+💻;Frontend+Web+Developer&center=true&width=380&height=45"></a>
 </p>
 
 
